@@ -4,14 +4,14 @@
 }
 body{
     /* width: 3000px; */
-    background: url('bg.jpeg');
+    background: url('night.jpg');
   background-size: cover;
     background-repeat: no-repeat;
 }
 
 h2{
     border-radius: 6px;
-    background-color: rgb(37, 106, 233);
+    background-color: rgb(14, 18, 24);
     padding: 20px 20px;
     margin-top: 23px;
     color: aliceblue;
@@ -38,7 +38,7 @@ h2{
 #btna td input:hover{
     cursor: pointer;
     color: aliceblue;
-    background: rgb(39, 149, 212);
+    background: rgb(26, 68, 90);
 
 }
  td #btn{
